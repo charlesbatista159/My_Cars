@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MY_Cars_SqLite</string>
+    <string name="textview">TextView</string>
+    <string name="inserir">Inserir</string>
+    <string name="informe_o_modelo">Informe o modelo:</string>
+    <string name="modelo">Modelo</string>
+    <string name="cor">Cor</string>
+    <string name="ano">Ano</string>
+</resources>

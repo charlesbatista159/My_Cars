@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id" type="id" />
+    <item name="btSalvar" type="id" />
+    <item name="modelo" type="id" />
+    <item name="ano" type="id" />
+    <item name="cor" type="id" />
+</resources>
